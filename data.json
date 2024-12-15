@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Starry Night",
+    "artist": "Vincent van Gogh",
+    "year": 1889,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+    "description": "A magnificent post-impressionist masterpiece, depicting a dreamy night sky over a quiet town."
+  },
+  {
+    "title": "The Persistence of Memory",
+    "artist": "Salvador Dalí",
+    "year": 1931,
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/dd/The_Persistence_of_Memory.jpg",
+    "description": "This surreal artwork is best known for its melting clocks, symbolizing the fluidity of time."
+  },
+  {
+    "title": "The Great Wave off Kanagawa",
+    "artist": "Hokusai",
+    "year": 1831,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/The_Great_Wave_off_Kanagawa.jpg",
+    "description": "A celebrated Japanese woodblock print, depicting a dramatic wave about to crash."
+  },
+  {
+    "title": "Girl with a Pearl Earring",
+    "artist": "Johannes Vermeer",
+    "year": 1665,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Meisje_met_de_parel.jpg",
+    "description": "Known as the 'Mona Lisa of the North,' this painting captures a young girl with a striking gaze."
+  },
+  {
+    "title": "The Scream",
+    "artist": "Edvard Munch",
+    "year": 1893,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/The_Scream.jpg",
+    "description": "A haunting expressionist painting, evoking feelings of existential dread and anxiety."
+  }
+]
